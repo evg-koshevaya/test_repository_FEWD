@@ -5,8 +5,9 @@ test_readme
 _Description_
 I made this file to include _important_ information
 I used the following commands:
-'''
+```
 git hub
 git commit
-'''
+```
+
 Here is my [LimkedIn](https://www.linkedin.com/in/evgenia-koshevaia/) profile
