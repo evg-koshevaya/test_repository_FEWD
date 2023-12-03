@@ -6,7 +6,7 @@ _Description_
 I made this file to include _important_ information
 I used the following commands:
 ```
-git hub
+git push
 git commit
 ```
 
