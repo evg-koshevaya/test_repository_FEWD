@@ -4,7 +4,6 @@ test_readme
 ## Part1
 _Description_
 I made this file to include _important_ information
-> and not important
 I used the following commands:
 '''
 git hub
